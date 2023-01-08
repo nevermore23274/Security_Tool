@@ -10,7 +10,6 @@ import sys
 
 # your shodan API key
 #SHODAN_API_KEY = '<YOUR_SHODAN_API_KEY_HERE>'
-SHODAN_API_KEY = '3q8ABKb2BcKtwBlbqW4Cewc7DmxriNOj'
 api = shodan.Shodan(SHODAN_API_KEY)
 
 # --- Classes ---
